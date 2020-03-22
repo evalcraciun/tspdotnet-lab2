@@ -1,4 +1,4 @@
-# tspdotnet-lab1
+# tspdotnet-lab2
 
 WF calculator personal
 
